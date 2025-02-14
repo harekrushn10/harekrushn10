@@ -15,8 +15,8 @@ I'm Harekrushn. I'm Web Developer, currently learning about depths of Full stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats📊:
-![](https://github-readme-streak-stats.herokuapp.com?user=ShyamKadiwar&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKadiwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=harekrushn10&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harekrushn10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
