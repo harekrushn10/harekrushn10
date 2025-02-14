@@ -19,4 +19,5 @@ I'm Harekrushn. I'm Web Developer, currently learning about depths of Full stack
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harekrushn10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+![](https://visitcount.itsvg.in/api?id=harekrushn10&label=Profile%20Views&pretty=false)
 
