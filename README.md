@@ -1,6 +1,7 @@
 #  About Me:
 I'm Harekrushn. I'm Web Developer, currently learning about depths of Full stack based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.<br>
 
+![code](https://pin.it/4BIEtgoeQ)
 
 ## Socials🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harekrushn-vaghasiya-156720266/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hari10_04) 
